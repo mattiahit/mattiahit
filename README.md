@@ -20,4 +20,5 @@
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
 </p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiahit)
