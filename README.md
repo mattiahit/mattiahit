@@ -20,6 +20,4 @@
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
 </p>
-<p>
-[![Mattiah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiahit&theme=blue-green)](https://github.com/mattiahit/github-readme-stats)
-</p>
+[![Mattiah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiahit&theme=dark)](https://github.com/mattiahit/github-readme-stats)
