@@ -1,28 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643513081/48669/android-dance.gif?1643513081" width="30" alt="android"/> Hi! Welcome in my GitHub profile. </h1>
 
 <p>I'm Matthew, Software Developer from <img src="https://emojis.slackmojis.com/emojis/images/1621376537/40081/poland.gif?1621376537" width="30" alt="pl"/> <b>Poland</b>
-<h3>PC</h3>
-<h4>Desktop:</h4>
-<div>
-    <img src="https://img.shields.io/badge/AMD%20Ryzen_5_1600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ryzen" />
-    <img src="https://img.shields.io/badge/16GB_RAM-3DDC84?style=for-the-badge&logoColor=white" alt="ram" />
-    <img src="https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="radeon" />
-    <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="microsoft" />
-    <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="windows" />
-</div>
-<h4>Laptop:</h4>
-<div>
-    <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" alt="lenovo" />
-    <img src="https://img.shields.io/badge/Intel%20Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel" />
-    <img src="https://img.shields.io/badge/32GB_RAM-6DB33F?style=for-the-badge&logoColor=white" alt="ram" />    
-    <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="nvidia" />    
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</div>
 <h3>IDE:</h3>
 <div>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij" />
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="studio" />
+<img src="https://img.shields.io/badge/IntelliJ-Idea%20Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij" />     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="studio" />
 </div>
 <h3>Technologies:</h3>
 <h4>Main:</h4>
@@ -33,7 +14,6 @@
     <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="gradle" />
     <img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" alt="material" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="gnu" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
