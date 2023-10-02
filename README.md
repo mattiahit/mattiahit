@@ -3,7 +3,8 @@
 <p>I'm Matthew, Software Developer from <img src="https://emojis.slackmojis.com/emojis/images/1621376537/40081/poland.gif?1621376537" width="30" alt="pl"/> <b>Poland</b>
 <h3>IDE:</h3>
 <div>
-<img src="https://img.shields.io/badge/IntelliJ-Idea%20Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij" />     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="studio" />
+<img src="https://img.shields.io/badge/IntelliJ-Idea%20Community-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
 </div>
 <h3>Technologies:</h3>
 <h4>Primary:</h4>
